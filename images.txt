@@ -38,8 +38,8 @@ openfrp/frpc:latest
 linuxserver/qbittorrent
 linuxserver/jackett
 jupyter/datascience-notebook
-snowdreamtech/frps
-snowdreamtech/frpc
+snowdreamtech/frps:latest
+snowdreamtech/frpc:latest
 snowdreamtech/alpine
 snowdreamtech/go
 testcontainers/helloworld:latest
