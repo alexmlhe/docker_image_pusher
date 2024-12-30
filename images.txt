@@ -44,3 +44,5 @@ snowdreamtech/alpine
 snowdreamtech/go
 testcontainers/helloworld:latest
 bitnami/postgresql:latest
+pch18/baota
+btpanel/baota
