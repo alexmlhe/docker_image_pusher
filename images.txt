@@ -37,3 +37,8 @@ testcontainers/helloworld:latest
 bitnami/postgresql:latest
 pch18/baota
 cyberbolt/baota:latest
+# jdk各版本镜像 必备
+eclipse-temurin:23-jre
+eclipse-temurin:21-jre
+eclipse-temurin:17-jre
+eclipse-temurin:8-jre
